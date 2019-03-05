@@ -1,6 +1,6 @@
 {
     "common": {
-        "name": "template",
+        "name": "vis-template",
         "version": "0.0.1",
         "news": {
             "0.0.1": {
@@ -16,7 +16,7 @@
                 "zh-cn": "首次出版"
             }
         },
-        "title": "Template (JavaScript with VIS)",
+        "title": "vis-template",
         "titleLang": {
             "en": "Template (JavaScript with VIS)",
             "de": "Vorlage (JavaScript mit VIS)",
@@ -55,8 +55,8 @@
         "main": "main.js",
         "icon": "template.png",
         "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/Author/ioBroker.template/master/admin/template.png",
-        "readme": "https://github.com/Author/ioBroker.template/blob/master/README.md",
+        "extIcon": "https://raw.githubusercontent.com/Author/ioBroker.vis-timer/master/admin/template.png",
+        "readme": "https://github.com/Author/ioBroker.vis-timer/blob/master/README.md",
         "loglevel": "info",
         "restartAdapters": [
             "vis"
@@ -70,7 +70,7 @@
         "adminTab": {
             "singleton": true,
             "name": {
-                "en": "Template (JavaScript with VIS)",
+                "en": "vis-timer (JavaScript with VIS)",
                 "de": "Vorlage (JavaScript mit VIS)",
                 "ru": "Шаблон (JavaScript с VIS)",
                 "pt": "Modelo (JavaScript com VIS)",
