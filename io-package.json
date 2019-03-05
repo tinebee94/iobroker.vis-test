@@ -1,6 +1,6 @@
 {
     "common": {
-        "name": "vis-template",
+        "name": "vis-timer",
         "version": "0.0.1",
         "news": {
             "0.0.1": {
@@ -16,7 +16,7 @@
                 "zh-cn": "首次出版"
             }
         },
-        "title": "vis-template",
+        "title": "vis-timer",
         "titleLang": {
             "en": "Template (JavaScript with VIS)",
             "de": "Vorlage (JavaScript mit VIS)",
